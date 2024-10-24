@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Consult Online
+    url: "https://bmg.link"
+    desc: Start an online consultation.
+  - title: Main Website
+    url: "https://www.beaconmedicalgroup.nhs.uk/"
+    desc: The main Beacon Website, where you can find more detailed information and resources.
+  - title: NHS UK
+    url: "hhttps://www.nhs.uk/"
+    desc: The Home Page of the NHS Website.
+  - title: Find a Pharmacy
+    url: "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
+    desc: Search by postcode or address to find your nearest pharmacy.
