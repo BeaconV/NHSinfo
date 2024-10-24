@@ -2,9 +2,9 @@
 items:
   - text: Home
     url: "/"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Consult Online
+    url: "https://bmg.link/"
+  - text: Find a Pharmacy
+    url: "https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy"
   - text: Posts
     url: "/blog"
